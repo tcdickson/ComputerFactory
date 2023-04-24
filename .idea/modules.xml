@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompositionChallenge/CompositionChallenge.iml" filepath="$PROJECT_DIR$/CompositionChallenge/CompositionChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComputerFactory.iml" filepath="$PROJECT_DIR$/ComputerFactory.iml" />
+    </modules>
+  </component>
+</project>
